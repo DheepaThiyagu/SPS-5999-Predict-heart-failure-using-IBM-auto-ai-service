@@ -1,6 +1,6 @@
 # SPS-5999-Predict-heart-failure-using-IBM-Auto-AI-Service
-[![Click for the demo](https://github.com/DheepaThiyagu/SPS-5999-Predict-heart-failure-using-IBM-auto-ai-service/blob/master/predict.png?raw=true)](https://www.youtube.com/watch?v=YwEWx-rL0tE) 
-<p> Click on the picture above to watch the demo 
+[![Click for the demo](https://github.com/DheepaThiyagu/SPS-5999-Predict-heart-failure-using-IBM-auto-ai-service/blob/master/predict.png?raw=true)(https://www.youtube.com/watch?v=YwEWx-rL0tE) 
+<p> Click on the picture above to watch the demo. 
 <p> As shown in the video,this application leverages machine learning models to predict heart failure risks, and helps the customer understand how various factors lead to risk of heart failure.
 
 <p>
