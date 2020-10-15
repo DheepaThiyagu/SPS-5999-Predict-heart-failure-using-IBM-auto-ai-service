@@ -1,4 +1,7 @@
 # SPS-5999-Predict-heart-failure-using-IBM-Auto-AI-Service
+
+[![Click for the demo](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
+
 [click for the demo](https://www.youtube.com/watch?v=YwEWx-rL0tE)
 <p> As shown in the video,this application leverages machine learning models to predict heart failure risks, and helps the customer understand how various factors lead to risk of heart failure.
 
