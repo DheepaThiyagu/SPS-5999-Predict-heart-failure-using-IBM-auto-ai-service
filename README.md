@@ -17,5 +17,23 @@
 - Generate predictions using the deployed model by making REST calls.
 - Compare the process of using AutoAI and building the model manually.
 - Visualize the deployed model using a front-end application.
+#Architecture Components
+
+
+#Flow Description
+1. The user creates an IBM Watson Studio Service on IBM Cloud.
+2. The user creates an IBM Cloud Object Storage Service and adds that to Watson Studio.
+3. The user uploads the insurance premium data file into Watson Studio.
+4. The user creates an AutoAI Experiment to predict insurance premium on Watson Studio
+5. AutoAI uses Watson Machine Learning to create several models, and the user deploys the best performing model.
+5. The user uses the Flask web-application to connect to the deployed model and predict an insurance charge.
+#Included components
+* IBM Watson Studio - IBM Watson® Studio helps data scientists and analysts prepare data and build models at scale across any cloud.
+* IBM Watson Machine Learning - IBM Watson® Machine Learning helps data scientists and developers accelerate AI and machine-learning deployment.
+* IBM Node-RED - Node-RED is a programming tool that provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that                 can be deployed to its runtime in a single-click.
+* IBM Cloud Object Storage - IBM Cloud™ Object Storage makes it possible to store practically limitless amounts of data, simply and cost effectively.
+#Featured technologies
+* artificial-intelligence - Build and train models, and create apps, with a trusted AI-infused platform.
+* Python - Python is an interpreted, high-level, general-purpose programming language.
 
 
