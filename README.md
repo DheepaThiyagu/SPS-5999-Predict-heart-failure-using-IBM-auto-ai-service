@@ -16,6 +16,8 @@
 - Choose the best model and complete the deployment.
 - Generate predictions using the deployed model.
 # Architecture Components
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+https://github.com/DheepaThiyagu/SPS-5999-Predict-heart-failure-using-IBM-auto-ai-service/blob/master/heartfailureautoai.png
 
 
 # Flow Description
