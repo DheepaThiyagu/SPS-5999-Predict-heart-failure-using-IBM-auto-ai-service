@@ -17,3 +17,5 @@
 - Generate predictions using the deployed model by making REST calls.
 - Compare the process of using AutoAI and building the model manually.
 - Visualize the deployed model using a front-end application.
+
+
