@@ -10,10 +10,10 @@
 
 <p>When you have completed this code pattern, you understand how to:
 
--Setup, quickly, the services on IBM Cloud for building the model.
--Ingest the data and initiate the AutoAI process.
--Build different models using AutoAI and evaluate the performance.
--Choose the best model and complete the deployment.
--Generate predictions using the deployed model by making REST calls.
--Compare the process of using AutoAI and building the model manually.
--Visualize the deployed model using a front-end application.
+- Setup, quickly, the services on IBM Cloud for building the model.
+- Ingest the data and initiate the AutoAI process.
+- Build different models using AutoAI and evaluate the performance.
+- Choose the best model and complete the deployment.
+- Generate predictions using the deployed model by making REST calls.
+- Compare the process of using AutoAI and building the model manually.
+- Visualize the deployed model using a front-end application.
